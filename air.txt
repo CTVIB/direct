@@ -18,3 +18,5 @@ payload:
   - 'fe80::/10'
   - 'ff00::/8'
   - '2000.run'
+  - 'jd.com'
+  - 'taobao.com'

@@ -21,3 +21,4 @@ payload:
   - 'jd.com'
   - 'taobao.com'
   - 'xvstv.com'
+  - 'rnbfum.aigc.umi6.com'

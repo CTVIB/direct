@@ -22,5 +22,4 @@ payload:
   - 'taobao.com'
   - 'xvstv.com'
   - 'rnbfum.aigc.umi6.com'
-  - 'app.augemint.com'
-  - 'augemint.com'
+

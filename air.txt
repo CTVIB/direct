@@ -25,6 +25,7 @@ payload:
   - 'augemint.com'
   - 'app.augemint.com'
   - '*.augemint.com'
+  - 'baidu.com'
 
 
 

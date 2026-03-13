@@ -20,12 +20,13 @@ payload:
   - '2000.run'
   - 'jd.com'
   - 'taobao.com'
-  - 'xvstv.com'
+  - '*.xvstv.com'
   - 'rnbfum.aigc.umi6.com'
   - 'augemint.com'
   - 'app.augemint.com'
   - '*.augemint.com'
   - 'baidu.com'
+  - '*.minimaxi.com'
 
 
 

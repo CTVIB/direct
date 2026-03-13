@@ -27,6 +27,7 @@ payload:
   - '*.augemint.com'
   - 'baidu.com'
   - '*.minimaxi.com'
+  - 'minimaxi.com'
 
 
 

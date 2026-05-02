@@ -28,6 +28,7 @@ payload:
   - 'baidu.com'
   - '*.minimaxi.com'
   - 'minimaxi.com'
+  - '*.foatv.com'
 
 
 

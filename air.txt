@@ -29,7 +29,6 @@ payload:
   - '*.minimaxi.com'
   - 'minimaxi.com'
   - '*.foatv.com'
-  - '*.blackmagicdesign.com'
 
 
 

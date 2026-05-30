@@ -29,6 +29,7 @@ payload:
   - '*.minimaxi.com'
   - 'minimaxi.com'
   - '*.foatv.com'
+  - '*.xvstv.com'
 
 
 

@@ -30,6 +30,7 @@ payload:
   - 'minimaxi.com'
   - '*.foatv.com'
   - '*.xvstv.com'
+  - '*.douyin.com'
 
 
 

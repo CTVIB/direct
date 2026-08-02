@@ -31,6 +31,8 @@ payload:
   - '*.foatv.com'
   - '*.xvstv.com'
   - '*.douyin.com'
+  - '*.aximmetry.com'
+  - '*.epicgames.com'
 
 
 
